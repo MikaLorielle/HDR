@@ -1,9 +1,6 @@
 # HDR Human and Digital Rights Document
 A Common Sense™ document for consumers, governments, and companies.
 
------This manifesto is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-See LICENSE file for details.-----
-
 
 # Statement of Digital Rights, A Common Sense Manifesto for the Digital Age
 
