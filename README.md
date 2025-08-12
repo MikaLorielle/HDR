@@ -8,7 +8,7 @@ A Common Sense™ document for consumers, governments, and companies.
 
 In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new clarity about what it means to **own**, **control**, and **consent** to digital goods and contracts.
 
-This document outlines fundamental rights and protections every user—minor or adult—should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
+This document outlines fundamental rights and protections every user, minor or adult, should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
 
 ---
 
@@ -23,7 +23,7 @@ This document outlines fundamental rights and protections every user—minor or 
 
 ## Universal Requirement for Evidence Transparency in Lawmaking and Enforcement
 
-- The principles of evidence transparency and accountability must apply equally to all laws, regulations, and enforcement actions—digital or physical.  
+- The principles of evidence transparency and accountability must apply equally to all laws, regulations, and enforcement actions, digital or physical.  
 - Laws such as KOSA, the Online Safety Act, and others with real-world enforcement consequences must be based on clear, verifiable, and balanced evidence.  
 - Without such standards, laws risk becoming instruments of unchecked power, violating citizens’ rights and undermining public trust.
 
