@@ -144,6 +144,6 @@ This manifesto demands a digital ecosystem where users’ rights to ownership, c
 
 ---
 
-*Drafted by [Jayden Freeman]*  
+*Drafted by [Naneko Kohana, MikaSukie, MikaLorielle, Jayden Freeman]*  
 *Sourced and Assisted by [AI]*  
 *Date: August 11 2025*
