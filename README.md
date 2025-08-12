@@ -6,9 +6,9 @@ A Common Sense™ document for consumers, governments, and companies.
 
 ## Preamble
 
-In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new clarity about what it means to **own**, **control**, and **consent** to digital goods and contracts.
+In today’s digital world, our interactions, creations, and possessions increasingly exist as data, software, and online services. This transition requires new understandings about what it means to **own**, **control**, and **consent** to digital goods and contracts.
 
-This document outlines fundamental rights and protections every user, minor or adult, should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
+This document will state the fundamental rights and protections every user, minor or adult, should have regarding digital products, platforms, and agreements. These rights are grounded in common sense and fairness, recognizing that digital does not mean “less real” or “less owned.”
 
 ---
 
