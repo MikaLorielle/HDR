@@ -46,5 +46,5 @@ In the digital age, our lives, work, and property increasingly exist as data, so
 
 **License:** Creative Commons CC0 (Public Domain)  
 **Drafted by:** Naneko Kohana, MikaSukie, MikaLorielle, Jayden Freeman  
-**Assisted by:** AI.
+**Assisted by:** AI. </br>
 **Date:** August 11, 2025
